@@ -6,7 +6,7 @@
 - 📫 How to reach me:
   - 📧 Email: daniel.leon.19@ull.edu.es
   - 👔 Linkedin: [DanielHrdez](https://www.linkedin.com/in/daniel-hernandez-de-leon/)
-  - 🌐 Portfolio: [danielhrdez.com](danielhrdez.com)
+  - 🌐 Portfolio: [danielhrdez.com](danielhrdez.dev)
 
 ### My Github Stats
 [![DanielHrdez's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielHrdez&count_private=true&show_icons=true&theme=dark&hide_border=true)](https://github.com/DanielHrdez)
