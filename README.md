@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning **Software Engineering**, **Full Stack Development** and **Artificial Intelligence**
 - 👯 I’m open to collaborate on everything related to software
 - 📫 How to reach me:
-  - 📧 Email: daniel@danielhrdez.dev
+  - 📧 Email: contact@danielhrdez.dev
   - 👔 Linkedin: [DanielHrdez](https://www.linkedin.com/in/daniel-hernandez-de-leon/)
   - 🌐 Portfolio: [danielhrdez.dev](danielhrdez.dev)
 
