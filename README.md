@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently studying on [ULL](https://www.ull.es/)
-- 🌱 I’m currently learning **Software Engineering**, **Full Stack Development** and **Artificial Intelligence**
-- 👯 I’m open to collaborate on everything related to software
+- 🔭 Graduated on [ULL](https://www.ull.es/)
+- 🌱 **Software Engineering**, **Full Stack Development** and **Artificial Intelligence**
+- 👯 Open to collaborate on everything related to software
 - 📫 How to reach me:
   - 📧 Email: contact@danielhrdez.dev
   - 👔 Linkedin: [DanielHrdez](https://www.linkedin.com/in/daniel-hernandez-de-leon/)
