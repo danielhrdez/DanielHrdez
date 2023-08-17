@@ -5,7 +5,7 @@
 - 👯 Open to collaborate on everything related to software
 - 📫 How to reach me:
   - 📧 Email: contact@danielhrdez.dev
-  - 👔 Linkedin: [DanielHrdez](https://www.linkedin.com/in/daniel-hernandez-de-leon/)
+  - 👔 Linkedin: [DanielHrdez](https://www.linkedin.com/in/danihrdez/)
   - 🌐 Portfolio: [danielhrdez.dev](https://www.danielhrdez.dev)
 
 ### My Github Stats
